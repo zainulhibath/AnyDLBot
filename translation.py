@@ -7,7 +7,7 @@ This bot was hosted in the server of @CRACKEXY (So don't forget him 😂)
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     # UPGRADE_TEXT = "no one gonna help you 🤣🤣🤣🤣"
-    UPGRADE_TEXT = """@Zains_Tech Paid Plans
+    UPGRADE_TEXT = """@ZainsProjects Paid Plans
 -------
 Plan: FREE
 Filesize limit: 1500 MB
