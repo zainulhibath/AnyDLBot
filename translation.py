@@ -1,12 +1,13 @@
 class Translation(object):
     START_TEXT = """Thank You for using me.
-/help to know how to use me
-Source Code: https://github.com/SpEcHiDe/AnyDLBot
-© @AnyDLBot"""
+/help to know how to use me or head to @ZainsProjects
+Source Code: https://github.com/zainulhibath/AnyDLBot
+This bot was hosted in the server of @CRACKEXY (So don't forget him 😂)
+© @ZTDLBot"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     # UPGRADE_TEXT = "no one gonna help you 🤣🤣🤣🤣"
-    UPGRADE_TEXT = """@AnyDL_Bot Paid Plans
+    UPGRADE_TEXT = """@Zains_Tech Paid Plans
 -------
 Plan: FREE
 Filesize limit: 1500 MB
@@ -53,7 +54,7 @@ FEATURES:
 👉 <a href="https://t.me/SpEcHlDe/657">Extract compressed Telegram media</a>
 👉 PLUS, all newly features that are going to be added in the feature*.
 -------
-NOTE: After payment you must take screenshot of receipt and send to @ShriMADhaBot with your Telegram ID obtained from /me
+NOTE: After payment you must take screenshot of receipt and send to @ZainsTechBot with your Telegram ID obtained from /me
 🙏 Please Message from the ID you want plan to be activated 🙏"""
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
